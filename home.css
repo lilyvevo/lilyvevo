@@ -1,5 +1,6 @@
  body {
 background-image: linear-gradient(to right top, #370505, #540025, #68004e, #641f85, #0045c1);
+  background-repeat: no-repeat;
  }
 
  .topbar {
