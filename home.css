@@ -1,0 +1,39 @@
+ body {
+background-image: linear-gradient(to right top, #370505, #540025, #68004e, #641f85, #0045c1);
+ }
+
+ .topbar {
+   background-color: rgb(7, 26, 44);
+   overflow: hidden;
+   opacity: 0.7;
+ }
+
+ .topbar a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 20px 25px;
+   text-decoration: none;
+   font-size: 17px;
+   font-family: 'Trebuchet MS';
+ }
+
+ .topbar a:hover {
+   background-color: dodgerblue;
+   color: white;
+ }
+
+ .topbar:hover {
+   opacity: 1;
+ }
+
+ h1 {
+   font-family: 'Trebuchet MS';
+   color: #f2f2f2;
+ }
+ .info {
+   color: #f2f2f2;
+   font-family:'Trebuchet MS';
+   padding: 15px 20px;
+   background-color: rgba(229, 243, 255, 0.3);
+ }
