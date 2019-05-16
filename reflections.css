@@ -1,0 +1,51 @@
+body {
+  background-image: linear-gradient(to top, rebeccapurple, indigo, mediumblue, deepskyblue);
+  background-repeat: no-repeat;
+}
+
+.topbar {
+  background-color: rgb(7, 26, 44);
+  overflow: hidden;
+  opacity: 0.8;
+}
+
+.topbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 25px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Trebuchet MS';
+}
+
+.topbar a:hover {
+  background-color: tomato;
+  color: white;
+}
+
+.topbar:hover {
+  opacity: 1;
+}
+
+h1 {
+  font-family: 'Trebuchet MS';
+  color: #f2f2f2;
+}
+
+.info {
+  color: #f2f2f2;
+  font-family: 'Trebuchet MS';
+  padding: 15px 20px;
+  background-color: rgba(229, 243, 255, 0.3);
+}
+
+.images {
+  border-style: double;
+  border-width: 8px;
+  border-color: rgba(255, 255, 255, 0.5);
+  padding: 5px 5px;
+  width: 540px;
+  height: 500px;
+  opacity: 0.7;
+}
