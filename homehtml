@@ -1,0 +1,27 @@
+!DOCTYPE html>
+<head>
+  <title>Lily's Writing</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="charset" content="UTF-8">
+  <link rel="stylesheet" href="addthislater.css"
+</head>
+
+<body>
+  <div class="topbar">
+    <a class="active" href="#home">home</a>
+    <a href="#writing">writing</a>
+    <a href="#reading">reading</a>
+    <a href="#reflections">reflections</a>
+  </div>
+  <h1 style="text-align:center">
+    8th Grade English- Writing Portfolio
+  </h1>
+<p class="info">
+  Welcome to my writing portfolio! Here, you'll find a small collection of pieces I wrote that are available to read, and a couple other tidbits of info. Enjoy! <br>These are all things I wrote throughout the school year, with one of them being from an extracurricular class. Thank you to my English teachers for helping me make my writing amazing- I'm really proud of what I've done and I hope other people like it too!<br>
+</p>
+<p class="info">
+This website was coded using HTML and CSS. The navigation bar at the top will take you around the website. Thank you to my friends for teaching me how to code! 
+</p>
+<p style="text-align:center;color:#f2f2f2;font-size:300%">
+-&hearts;-
+</p>
