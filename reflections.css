@@ -48,5 +48,6 @@ h1 {
   width: 540px;
   height: 500px;
   opacity: 0.7;
-  float: left;
+  right-margin: auto;
+  left-margin: auto;
 }
