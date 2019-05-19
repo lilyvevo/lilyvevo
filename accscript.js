@@ -1,3 +1,5 @@
+
+function accscript () {
 var acc = document.getElementsByClassName("acc");
 var i;
 
@@ -11,4 +13,4 @@ for (i = 0; i < acc.length; i++) {
       panel.style.display = "block";
     }
   });
-}
+}}
