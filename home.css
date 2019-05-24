@@ -47,6 +47,5 @@ background-image: linear-gradient(to right top, #370505, #540025, #68004e, #641f
   height: 500px;
   width: auto;
   opacity: 0.7;
-  display: block;
-  text-align: center;
+  margin: auto;
 }
